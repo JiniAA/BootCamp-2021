@@ -1,0 +1,141 @@
+body{
+display: flex;
+justify-content: center;
+box-sizing:border-box;
+align-items: center;
+    
+}
+
+.TopContainer{
+height: 600px;
+overflow-y: scroll;
+border-color:white ;
+border-style: groove;
+background-color: white;
+}
+#img1{
+padding-left: 250px;   
+padding-right: 250px; 
+top: 47px;
+left: 347px;
+width: 79px;
+height: 87px;
+}
+.first{
+padding-left: 250px; 
+padding-right: 250px;
+top: 168px;
+left: 347px;
+width: 582px;
+height: 160px;
+text-align: left;
+letter-spacing: 0px;
+color: #111529;
+opacity: 1;
+}
+#img2{
+padding-left: 250px;
+padding-right: 250px; 
+top: 385px;
+left: 347px;
+width: 746px;
+height: 498px;
+opacity: 1;
+}
+.second{
+padding-left: 250px; 
+padding-right: 250px;
+top: 936px;
+left: 347px;
+width: 746px;
+height: 270px;
+color: var(--unnamed-color-000000);
+text-align: left;
+letter-spacing: 0px;
+color: #000000;
+opacity: 0.7;
+}
+#third{
+padding-left: 250px; 
+padding-right: 250px;
+text-align: left;
+letter-spacing: 0px;
+color: #111529;
+opacity: 1;
+}
+#img3{
+padding-left: 250px; 
+padding-right: 250px;
+top: 1452px;
+left: 347px;
+width: 746px;
+height: 497px;
+opacity: 1;
+}
+#img4{
+padding-left: 250px; 
+padding-right: 250px;
+top: 2057px;
+left: 347px;
+width: 746px;
+height: 497px;
+opacity: 1;
+}
+#img5{
+padding-left: 250px; 
+padding-right: 250px;
+top: 2057px;
+left: 347px;
+width: 746px;
+height: 497px;
+opacity: 1;
+}
+.bottom{
+    top: 3221px;
+    left: 0px;
+    width: 1250px;
+    height: 260px;
+    background: #480E83;
+    opacity: 1; 
+}
+.bot{
+    top: 3296px;
+    left: 403px;
+    width: 634px;
+    height: 70px;
+    letter-spacing: 0px;
+    opacity: 1;
+}
+.btn-primary{
+/*top: 3435px;
+left: 620px;*/
+width: 180px;
+height: 55px;
+margin-left: 540px;
+text-align: center;
+/*position: absolute;*/
+background-color: #20C8B2;
+font-size: 17px;
+color: white;
+font-weight: 400;
+}
+.secondbutton{
+    background-color: #20C8B2;
+    display: inline-block;
+    padding-right: 30px;
+    margin-left: 140px;
+    margin-bottom: 20px;
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    margin-left: 100px;
+    background-color: #480E83;
+       
+}
+.final{
+
+    padding-left: 650px;
+    transform: translateY(-200px);
+}
